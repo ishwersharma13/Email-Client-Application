@@ -1,6 +1,11 @@
-# Email Client App (Outlook-like)
+# Email Client App
 
 This is a React and Redux-based email client app that emulates the features of Outlook. It allows users to manage their emails, view email details, and perform various actions.
+
+
+## Deployed
+https://6535489d1f6f3752b1079325--ishweremailuser.netlify.app/
+
 
 ## Features
 
